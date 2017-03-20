@@ -1,0 +1,14 @@
+{
+  "name": "plethora-atlas-contrib-nlp",
+  "version": "0.1.0",
+  "description": "Natural Language Processing utilities for PlethoraAtlas Project",
+  "main": "nlp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kostasx <minaidisk@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "franc": "^3.0.0"
+  }
+}
